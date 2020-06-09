@@ -28,7 +28,7 @@
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Dropdown
+          Promo
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="#">Action</a>
@@ -137,17 +137,7 @@
       <div class="list-group">
         <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
         <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
+        
         
       
       </div>
@@ -156,17 +146,7 @@
       <div class="list-group">
       <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
         <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
+       
         
       </div>
     </div>
@@ -174,17 +154,7 @@
       <div class="list-group">
       <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
         <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
+        
         
       </div>
     </div>
@@ -192,17 +162,7 @@
       <div class="list-group">
       <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
         <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-success">A simple success list group item</a>
+      
         
       </div>
     </div>

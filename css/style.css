@@ -1,0 +1,9 @@
+.hasilcari {
+  background-color: white;
+  position: absolute;
+  padding: 5px;
+  margin-top: 50px;
+  z-index: 999;
+  width: 300px;
+  border-radius: 3px;
+}
